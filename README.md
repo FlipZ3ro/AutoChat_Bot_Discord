@@ -6,7 +6,7 @@
 pkg install git
 ```
 ```
-git clone https://github.com/bangpateng/push-dc
+git clone https://github.com/arapzz/AutoChat_Bot_Discord
 ```
 ```
 pkg install python
